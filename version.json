@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "최초 배포",
-  "zipUrl": ""
+  "version": "1.1.1",
+  "notes": "환경설정(그래픽·음량·게임) 추가, UI 배율·해상도 지원, 텍스트 잘림 및 한글 입력 버그 수정",
+  "zipUrl": "https://github.com/gadzet0078-pixel/NeonSwarmUnity/releases/download/v1.1.1/NeonSwarm_1.1.1.zip"
 }
