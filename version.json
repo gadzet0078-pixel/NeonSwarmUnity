@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
-  "notes": "인게임 피드백 전송 기능 추가, 수호 방호막 범위 1.5배 상향, 아이콘 깨짐·업데이트 재시작 버그 수정, 처치 충격파 등 이펙트 강화",
-  "zipUrl": "https://github.com/gadzet0078-pixel/NeonSwarmUnity/releases/download/v1.1.3/NeonSwarm_1.1.3.zip"
+  "version": "1.2.0",
+  "notes": "언어팩 추가: English · 日本語 · 简体中文 · 繁體中文 (환경설정 > 게임 > 언어)",
+  "zipUrl": "https://github.com/gadzet0078-pixel/NeonSwarmUnity/releases/download/v1.2.0/NeonSwarm_1.2.0.zip"
 }
